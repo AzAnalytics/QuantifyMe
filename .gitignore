@@ -1,1 +1,14 @@
+# Environnements et fichiers temporaires
 .venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Cache de tests
+.coverage
+htmlcov/
+pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml

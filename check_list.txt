@@ -1,0 +1,9 @@
+🧭 Check-list de départ (ultra concrète)
+Créer repo + arbo ci-dessus
+Écrire score_engine + tests
+Écrire RepoSQLite (models, CRUD) + tests
+Écrire ai_service (stub) + tests
+Script seed_local_data.py
+Page Streamlit minimaliste (form + carte “SCJ du jour” + graph 7j)
+Lancer pytest --cov → viser >85% sur le core
+Décider du flag STORAGE_BACKEND pour préparer Firebase
