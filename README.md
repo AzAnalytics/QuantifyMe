@@ -61,12 +61,12 @@ quantifyme/
 ## 🧰 Installation locale
 
 ### 1️⃣ Cloner le projet
-```bash
+```
 git clone https://github.com/AzAnalytics/QuantifyMe.git
-cd QuantifyMe```
+cd QuantifyMe
 
 ### 2️⃣ Créer un environnement virtuel
-```bash
+```
 python -m venv .venv
 source .venv/bin/activate      # Linux / macOS
 .venv\Scripts\activate         # Windows
